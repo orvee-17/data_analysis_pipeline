@@ -1,0 +1,3 @@
+# data_processing_pipeline
+
+This repository contains a basic guideline as to how we should deal with the several phases of a practical life Data Science Projects. Real world datasets are generally very large and we should follow some steps like Data Analysis, Data Preprocessing and Feature Selection while dealing with such datasets. Each of these phases have some common steps that we should follow in handling any similar large dataset. The dataset that we used here is the Boston House Rent dataset. So, before implementing any machine learning algorithms, it is very important to follow this data processing pipeline for a project. Each of the steps in the life cycle of a Data Science project is discussed in details along with the implementation. 
